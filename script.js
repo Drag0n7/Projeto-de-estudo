@@ -18,7 +18,7 @@ function toggleMode() {
     )
   } else {
     //se tiver sem light Mode manter a imagem normal
-    img.setAttribute("src", "./assets/assets/avatar-horda.png")
+    img.setAttribute("src", "./assets/assets/Avatar-horda.png")
     img.setAttribute(
       "alt",
       "imagem do simbolo da horda de warcraft vemelha tipo chamas"
